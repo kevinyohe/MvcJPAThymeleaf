@@ -2,4 +2,4 @@
 
 http://localhost:8080/students/list
 
-![pic of admin page](screenshot.png)
+![pic of admin page](screenshot.PNG)
